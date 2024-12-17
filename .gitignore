@@ -1,0 +1,12 @@
+requirements.temp.txt
+
+*.sqlite3
+
+.creds
+envs
+.DS_Store
+*.back
+.coverage
+.db.sqlite3
+
+venv

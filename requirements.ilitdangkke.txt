@@ -1,0 +1,15 @@
+## fast api
+fastapi
+gunicorn[gevent]
+uvicorn[standard]
+
+## pydantic
+pydantic
+pydantic-settings
+
+
+## database
+sqlalchemy[asyncio]
+aiohttp
+aiohttp-retry
+
